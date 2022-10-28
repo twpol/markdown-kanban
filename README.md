@@ -1,3 +1,3 @@
 # Markdown Kanban
 
-A command-line took to generate an HTML Kanban board from a directory of markdown files.
+Command-line took for generating an HTML Kanban board from a directory of markdown files.
